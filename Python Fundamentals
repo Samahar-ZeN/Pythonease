@@ -1,0 +1,44 @@
+Basic Fundamentals of Python
+Python is a simple and powerful programming language with an easy-to-understand syntax. Below are the key fundamentals of Python, which every beginner should understand to get started with programming in Python.
+. Variables and Data Types
+In Python, variables are used to store data. Python is dynamically typed, meaning you don’t need to declare the type of variable explicitly; Python determines it at runtime.
+
+Common Data Types:
+int: Integer (whole numbers)
+float: Floating-point number (decimal values)
+str: String (text)
+bool: Boolean (True or False)
+list: List (ordered, mutable collection of items)
+tuple: Tuple (ordered, immutable collection of items)
+dict: Dictionary (key-value pairs)
+set: Set (unordered collection of unique items)
+python
+x = 10            # int
+y = 3.14          # float
+name = "Alice"    # str
+is_active = True  # bool
+2. Basic Operators
+Python supports various types of operators to perform arithmetic, comparison, logical, and other operations:
+
+Arithmetic Operators:
++ (addition), - (subtraction), * (multiplication), / (division), // (floor division), % (modulus), ** (exponentiation)
+python
+x = 5
+y = 3
+print(x + y)   # Output: 8
+print(x ** y)  # Output: 125 (5 raised to the power of 3)
+Comparison Operators:
+== (equal), != (not equal), > (greater than), < (less than), >= (greater than or equal to), <= (less than or equal to)
+python
+a = 5
+b = 10
+print(a == b)  # False
+print(a != b)  # True
+print(a > b)   # False
+Logical Operators:
+and, or, not (used for combining boolean conditions)
+python
+x = True
+y = False
+print(x and y)  # False
+print(x or y)   # True
