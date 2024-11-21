@@ -118,10 +118,10 @@ Ozge.st_intro()
 Ozge.attend_class()
 print(Ozge.country)
 
-Laraib=students_data_information('Laraib','Nouman',13355009,20,'Graphic Designer','Pakistan','Islam')
-Laraib.st_intro()
-Laraib.study()
-print(Laraib.course)
+Hande=students_data_information('Hande','Ercel',13355009,31,'Actress','Turkiye','Islam')
+Hande.st_intro()
+Hande.study()
+print(Hande.course)
 
 
 
@@ -242,9 +242,9 @@ Samahar.students_intro()
 Samahar.study()
 
 
-Laraib=students('Laraib',20)
-Laraib.students_intro()
-Laraib.attend()
+Ozge=students('Ozge',31)
+Ozge.students_intro()
+Ozge.attend()
 
 
 
