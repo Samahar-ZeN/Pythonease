@@ -1,0 +1,8 @@
+OOps(oriented programming language) consist of multiple properties/attributes and functions/methods.
+ It consist of classes  and objects and multiple objects
+ can be consist of just one class!
+ There are four pillars
+ 1) Encapsulation
+ 2) Polymorphism
+ 3) Abstract
+ 4)Inheritance
